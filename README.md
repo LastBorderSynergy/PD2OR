@@ -6,15 +6,15 @@ Pay Day 2 Online Radio
 About PD2OR
 ------
 
-Support realtime online radio in game.
-Special BLT mod online radio for HUD in Pay Day 2.
+ - Support realtime online radio in game.
+ - Special BLT mod online radio for HUD in Pay Day 2.
 
 Chat, hotkeys, other
 ------
 
-`RADIO!` - chat command, show in chat current music when host and when player hint on screen.
-`Ctrl+P` - hotkeys for online radio you can turn on and turn off radio and hud with BLT mod.
-`PD2OR MOD` - blt mod support online radio and you can move hud but need press Ctrl+P.
+ - `RADIO!` - chat command, show in chat current music when host and when player hint on screen.
+ - `Ctrl+P` - hotkeys for online radio you can turn on and turn off radio and hud with BLT mod.
+ - `PD2OR MOD` - blt mod support online radio and you can move hud but need press Ctrl+P.
 
 Install
 ------
