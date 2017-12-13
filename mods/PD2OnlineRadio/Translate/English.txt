@@ -1,0 +1,12 @@
+{
+	"PD2OR_MenuOptions_Title" : "PD2 Online Radio",
+	"PD2OR_MenuOptions_Desc" : "Change the options of PD2OR.",
+	"PD2OR_Enable_Hud_Title" : "Enable PD2OR hud",
+	"PD2OR_Enable_Hud_Desc" : "When enabled, this will show on screen current music in custom hud.",
+	"PD2OR_Pos_X_Title" : "HUD Position X",
+	"PD2OR_Pos_X_Desc" : "Moves the main panel on the X axis.",
+	"PD2OR_Pos_Y_Title" : "HUD Position Y",
+	"PD2OR_Pos_Y_Desc" : "Moves the main panel on the Y axis.",
+	"PD2OR_Pos_Reset_Title" : "Reset PD2OR",
+	"PD2OR_Pos_Reset_Desc" : "Reset settings PD2OR default."
+}

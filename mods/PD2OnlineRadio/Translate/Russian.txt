@@ -1,0 +1,10 @@
+{
+	"PD2OR_MenuOptions_Title" : "PD2 Online Radio",
+	"PD2OR_MenuOptions_Desc" : "Измените настройки PD2OR.",
+	"PD2OR_Pos_X_Title" : "HUD Позиция X",
+	"PD2OR_Pos_X_Desc" : "Двигает панель на X ось.",
+	"PD2OR_Pos_Y_Title" : "HUD Позиция Y",
+	"PD2OR_Pos_Y_Desc" : "Двигает панель на Y ось.",
+	"PD2OR_Pos_Reset_Title" : "Сбросить PD2OR",
+	"PD2OR_Pos_Reset_Desc" : "Сбросить настройки PD2OR по умолчанию."
+}
