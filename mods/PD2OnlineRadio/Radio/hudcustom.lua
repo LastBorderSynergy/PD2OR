@@ -29,7 +29,7 @@ Hooks:PostHook( HUDAssaultCorner, "init", "PD2OnlineRadio", function(self, hud, 
 	
 	self.pd2or_text = self._pd2or_panel_box:text({
 		name = "pd2or_text",
-		text = "PD2OR - Offline",
+		text = "PD2OR - Please wait update metatag.",
 		valign = "center",
 		align = "left",
 		vertical = "center",
