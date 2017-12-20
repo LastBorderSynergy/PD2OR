@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/MAGISTER-PD2OR/PD2OR/master/pd2or.png)
+![banner](https://raw.githubusercontent.com/MAGISTER-PD2OR/PD2OR/master/mods/PD2OnlineRadio/pd2or.png)
 
 PD2OR
 ==========
