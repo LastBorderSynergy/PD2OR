@@ -23,7 +23,7 @@ Install
 
 1. Download official mod [PayDay2-BLT](https://github.com/JamesWilko/Payday-2-BLT/releases/download/2.3/BLT_release_r7_r19.zip)
 2. Install official mod PayDay2-BLT in your Pay Day 2.
-3. Download [PD2OR](https://github.com/MAGISTER-PD2OR/PD2OR/files/1555718/PD2OR_rev1.0.0.2.zip) mod and replace in folder Pay Day 2.
+3. Download [PD2OR](https://github.com/MAGISTER-PD2OR/PD2OR/releases) mod and replace in folder Pay Day 2.
 4. Done you can play and hear online radio.
 
 More info on website PD2OR

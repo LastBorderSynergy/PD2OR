@@ -1,6 +1,8 @@
 {
 	"PD2OR_MenuOptions_Title" : "PD2 Online Radio",
 	"PD2OR_MenuOptions_Desc" : "Измените настройки PD2OR.",
+	"PD2OR_Size_Title" : "HUD Размер",
+	"PD2OR_Size_Desc" : "Меняет размер PD2OR HUD.",
 	"PD2OR_Pos_X_Title" : "HUD Позиция X",
 	"PD2OR_Pos_X_Desc" : "Двигает панель на X ось.",
 	"PD2OR_Pos_Y_Title" : "HUD Позиция Y",

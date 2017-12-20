@@ -26,6 +26,11 @@ local file = io.open( self.Savefile , "r")
 	end
 end
 
+MenuCallbackHandler.PD2OR_Size_Callback = function(self, item)
+	PD2OR.Data.PD2OR_Size_Value = item:value()
+	PD2OR:Save()
+end
+
 MenuCallbackHandler.PD2OR_Pos_X_Callback = function(self, item)
 	PD2OR.Data.PD2OR_Pos_X_Value = item:value()
 	PD2OR:Save()
@@ -37,6 +42,7 @@ MenuCallbackHandler.PD2OR_Pos_Y_Callback = function(self, item)
 end
 
 MenuCallbackHandler.PD2OR_Pos_Reset_Callback = function(self, item)
+    MenuHelper:ResetItemsToDefaultValue( item, {["PD2OR_Size"] = true}, 0 )
 	MenuHelper:ResetItemsToDefaultValue( item, {["PD2OR_Pos_X"] = true}, 0 )
 	MenuHelper:ResetItemsToDefaultValue( item, {["PD2OR_Pos_Y"] = true}, 0 )
 end

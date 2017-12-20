@@ -6,6 +6,18 @@
 	"items" : [
 		{
 		    "type" : "slider",
+		    "id" : "PD2OR_Size",
+		    "title" : "PD2OR_Size_Title",
+		    "description" : "PD2OR_Size_Desc",
+		    "callback" : "PD2OR_Size_Callback",
+		    "value" : "PD2OR_Size_Value",
+		    "default_value" : 450,
+		    "max" : 700,
+		    "min" : 400,
+		    "step" : 1
+		},
+		{
+		    "type" : "slider",
 		    "id" : "PD2OR_Pos_X",
 		    "title" : "PD2OR_Pos_X_Title",
 		    "description" : "PD2OR_Pos_X_Desc",
