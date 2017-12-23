@@ -3,7 +3,7 @@
     "description" : "Add support online radio for Pay Day 2 with metatags on hud.",
     "author" : "MAGISTER",
     "contact" : "http://f0176051.xsph.ru/",
-    "version" : "1.0.0.3",
+    "version" : "1.0.0.4",
     "blt_version" : 2,
     "image" : "pd2or.png",
     "color" : "1 0.4 0",
