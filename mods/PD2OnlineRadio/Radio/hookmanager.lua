@@ -55,13 +55,17 @@ if managers.hud and managers.money and managers.loot then
 	    end
 
 		local fileCheckLang = io.open("mods/PD2OnlineRadio/Radio/OnlineRadioCheckLang.txt", "r")
-	    if fileCheckLang:read() == "ru" then
-		    managers.hud._hud_assault_corner.other_pd2or_text:set_text("Горячие клавиши для Pay Day 2 Online Radio: (Ctrl+P)\nЧат команда: RADIO!")
-		    managers.hud._hud_assault_corner.other_pd2or_text:set_color(Color(1, 0.75, 0.75, 0.75))
-	    else
-		    managers.hud._hud_assault_corner.other_pd2or_text:set_text("Hotkey for Pay Day 2 Online Radio: (Ctrl+P)\nChat command: RADIO!")
-		    managers.hud._hud_assault_corner.other_pd2or_text:set_color(Color(1, 0.75, 0.75, 0.75))
-	    end
+        if fileCheckLang==nil then
+		    --just without code there.
+        else
+	        if fileCheckLang:read() == "ru" then
+		        managers.hud._hud_assault_corner.other_pd2or_text:set_text("Горячие клавиши для Pay Day 2 Online Radio: (Ctrl+P)\nЧат команда: RADIO!")
+		        managers.hud._hud_assault_corner.other_pd2or_text:set_color(Color(1, 0.75, 0.75, 0.75))
+	        else
+		        managers.hud._hud_assault_corner.other_pd2or_text:set_text("Hotkey for Pay Day 2 Online Radio: (Ctrl+P)\nChat command: RADIO!")
+		        managers.hud._hud_assault_corner.other_pd2or_text:set_color(Color(1, 0.75, 0.75, 0.75))
+	        end
+		end
 	end
 end
 
