@@ -7,7 +7,11 @@ Pay Day 2 Online Radio
 
 About PD2OR
 ------
-
+ - Support MP3 music in realtime and random.
+ - Support new settings SwitchRadio, default false look config radio.ini
+ - Support finally new links: .m3u and pls
+ - Support resize PD2OR hud on screen.
+ - Support random online radio, just look radio.ini there more info.
  - Support realtime online radio in game.
  - Special BLT mod online radio for HUD in Pay Day 2.
 
